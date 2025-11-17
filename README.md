@@ -16,8 +16,9 @@
 
 #### TOOL 1 STYLISH VERY DANGER
 ```python
-rm -rf SMS-BOMBER
+pkg install python
+pkg install git
 git clone https://github.com/Xylon-404/SMS_SPAM.git
-cd SMS-BOMBER
-python install.py
+cd SMS_SPAM
+python sms_bomber.py
 ```
