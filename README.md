@@ -12,12 +12,12 @@
 - No Termux Knowlegde
 
 
-![logo](fuck.png)
+![logo](IMG_20251117_172432.jpg)
 
 #### TOOL 1 STYLISH VERY DANGER
 ```python
 rm -rf SMS-BOMBER
-git clone https://github.com/Xylon-404/SMS-BOMBER.git
+git clone https://github.com/Xylon-404/SMS_SPAM.git
 cd SMS-BOMBER
 python install.py
 ```
